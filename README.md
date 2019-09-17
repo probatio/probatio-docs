@@ -1,5 +1,5 @@
 # probatio-docs
-## Architechture
+## Architecture
 ## Bill of Materials
 ### A Generic Block (no sensors)
 - 6x [Neodymium Magnet](https://www.aliexpress.com/item/32812691029.html) N50 Round Cylinder 12mm x 1.5mm
