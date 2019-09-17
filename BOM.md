@@ -8,7 +8,7 @@
 - Wires for soldering
 ## Base with N horizontal slots by M vertical slots
 - Material for structure (MDF or Acrylic)
-- (N*M)x Probatio PCB Base (https://github.com/probatio/probatio-pcb-base)
+- (NxM)x Probatio PCB Base (https://github.com/probatio/probatio-pcb-base)
 - 1x RJ12 Female Connector
 - Wires for soldering
 ## Block: Turntable, Crank
@@ -20,3 +20,18 @@
 - 1x Hall Effect Continuous Sensor
 - Material for special structures
 - Springs
+## Block: Buttons
+- 1x Generic Block
+- 2x Buttons
+## Block: Pots
+- 1x Generic Block
+- 2x Potenciometers Linear 10K
+## Block: Joystick
+- 1x Generic Block
+- 1x Joystick
+## Block: Tap, ThreeTaps
+- 1x Generic Block
+- Nx Piezos
+## Block: Breath
+- 1x Generic Block
+- 1x Air Pressure Sensor
