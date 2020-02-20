@@ -13,7 +13,7 @@
 - Wires for soldering
 ## Block: Turntable, Crank
 - 1x Generic Block
-- 1x Rotary Encoder [KY-040](https://www.aliexpress.com/item/33050922115.html)
+- 1x Rotary Encoder [KY-040](https://www.aliexpress.com/wholesale?catId=0&origin=y&SearchText=ky-040)
 - Material for special structures
 ## Block: Bellows
 - 1x Generic Block
