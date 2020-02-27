@@ -2,7 +2,7 @@
 # Probatio 1.0
 ![](/images/probatio_v1_0_collage.png)
 # Reference for assembling
-![Pins for Soldering](/images/reference.png)
+![Field Notes - Wiring](/images/wiring_annotations.png)
 # Architecture
 ![](/images/probatio-architecture_squared.png)
 # [Bill of Materials](/BOM.md)
