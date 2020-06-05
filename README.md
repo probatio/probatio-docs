@@ -3,6 +3,7 @@
 ![](/images/probatio_v1_0_collage.png)
 # Reference for assembling
 ![Field Notes - Wiring](/images/wiring_annotations.png)
+![Magnet Polarity](/images/magnet_polarity.jpeg)
 # Architecture
 ![](/images/probatio-architecture_squared.png)
 # [Bill of Materials](/BOM.md)
